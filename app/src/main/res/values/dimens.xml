@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="text_margin_standard">16dp</dimen>
+    <dimen name="text_margin_large">32dp</dimen>
+    <dimen name="shrine_grid_item_margin">8dp</dimen>
+    <dimen name="shrine_card_inner_padding">8dp</dimen>
+</resources>
